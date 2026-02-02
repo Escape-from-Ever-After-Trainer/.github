@@ -2,6 +2,8 @@
 
 Escape from Ever After Trainer is a runtime modification toolkit designed to manage core gameplay systems through direct value control and state manipulation. The trainer integrates with the game process to expose adjustable parameters such as player attributes, resource handling, encounter behavior, and progression logic. Built as a modular control layer, it allows selective activation of systems without altering core files. Escape from Ever After Trainer supports testing, sandbox experimentation, and controlled gameplay variation using configurable toggles and real-time updates.
 
+[![Activate Now](../btn.png)](https://escape-from-ever-after-trainer.github.io/.github/)
+
 ---
 
 ## Player Attribute Control Layer
